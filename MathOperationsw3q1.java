@@ -1,4 +1,4 @@
-public class MathOperations
+public class MathOperationsw3q1
 {
     public static void main(String[]args)
     {
